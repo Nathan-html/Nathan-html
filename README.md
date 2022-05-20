@@ -1,7 +1,8 @@
-<p align="center">Hi 👋</p>
+<h1 align="center">Hi 👋</h1>
 <p align="center">
   <img align="center" src="https://i.pinimg.com/originals/6e/43/d3/6e43d3706a0bc3174710409a74b0ab9b.gif">
 </p>
+<h1 align="center">Nathan HTML | :fr: French dev</h1>
 
 <!--
 **Nathan-html/Nathan-html** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
